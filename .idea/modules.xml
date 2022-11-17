@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ipfs-blockchain-poc/ipfs-blockchain-poc.iml" filepath="$PROJECT_DIR$/ipfs-blockchain-poc/ipfs-blockchain-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/medcypher-poc.iml" filepath="$PROJECT_DIR$/.idea/medcypher-poc.iml" />
+    </modules>
+  </component>
+</project>
