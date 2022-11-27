@@ -6,5 +6,5 @@ public interface FileServiceImpl {
 
     String saveFile(MultipartFile file);
 
-    byte[] loadFile(String hash);
+    byte[] getFile(String hash);
 }
