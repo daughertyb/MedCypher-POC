@@ -15,6 +15,4 @@ public class IPFSConfig {
         ipfs = new IPFS("/ip4/127.0.0.1/tcp/5001");
     }
 
-
-
 }
